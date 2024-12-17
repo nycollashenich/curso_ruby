@@ -1,4 +1,5 @@
 puts 'Calculadora'
+result = ''
 
 loop do 
 
